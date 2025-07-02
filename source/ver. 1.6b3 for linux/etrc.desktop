@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=ETRC Remote Terminal
+Comment=Enhanced Terminal Remote Control for Linux
+Exec=/home/xiaohua/etrc/etrc.sh
+Icon=utilities-terminal
+Terminal=true
+Type=Application
+Categories=Network;RemoteAccess;

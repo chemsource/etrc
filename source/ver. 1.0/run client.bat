@@ -1,0 +1,1 @@
+..\.etrc\py\python.exe client.py
